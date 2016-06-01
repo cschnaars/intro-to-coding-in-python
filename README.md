@@ -5,5 +5,5 @@ Conference, New Orleans, June 2016.
 ## Getting Started
 You'll need Python 3.3 or greater to install Jupyter and run the code examples. Despite the long list of libraries
 in the requirements.txt file, you should only need:
-'''python
+```python
 pip install jupyter
